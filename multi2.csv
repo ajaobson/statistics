@@ -1,4 +1,4 @@
-Units,Price,Stores
+=git-column(Units,Price,Stores
 550,35,3
 570,39,4
 590,40,2
@@ -8,5 +8,7 @@ Units,Price,Stores
 545,35,3
 650,45,1
 540,40,5
-600,44,3
+600,44,3)
+
+
 
