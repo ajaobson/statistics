@@ -1,6 +1,4 @@
-Units sold,"Competitor
-Price","Competitor
-Stores"
+Unitssold,CompetitorPrice,CompetitorStores
 582,36,1
 570,39,4
 600,41,1
@@ -12,4 +10,5 @@ Stores"
 600,40,2
 590,40,2
 575,46,6
+
 550,35,3
